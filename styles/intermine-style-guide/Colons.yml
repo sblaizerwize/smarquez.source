@@ -1,0 +1,6 @@
+extends: existence
+message: "'%s' should be in uppercase."
+nonword: true
+level: error
+tokens:
+  - ':\s[a-z]'

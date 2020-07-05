@@ -1,0 +1,174 @@
+extends: substitution
+message: "Use '%s' instead of '%s'."
+level: warning
+ignorecase: false
+action:
+  name: replace
+swap:
+  carry out: perform 
+  allows: enables
+  below: following
+  above: preceding
+  via: by using (or through)
+  pre installation: pre-installation
+  post installation: post-installation
+  pre defined: pre-defined
+  url: URL
+  internet: Internet
+  web: Web
+  \‘s: Change the sentence to avoid this usage
+  If you would like to: To [do something]....
+  Web site/Website: website
+  you need to: you must...
+  a [large] number of: many
+  a majority of: most
+  a sufficient amount of: enough
+  adequate: [specify a number, if possible]
+  afterwards: afterward
+  allows you to: enables
+  alphanumerical: alphanumeric
+  an abundance of: many
+  aren’t: are not
+  doesn’t: does not
+  as per: according to
+  as well as : and/also
+  assuming that: if
+  at a later point in time: later
+  at all times: always
+  Once: After...
+  assuming that: if
+  at present: now, currently
+  at the present time: now, currently
+  at the end of: after
+  at the time that: when
+  at this point in time: now
+  back slash: backslash
+  back space: backspace
+  back end: backend
+  front end: frontend
+  backwards: backward
+  based on the fact that: because
+  be aware of the fact that: know
+  be sure that: ensure that
+  because of the fact that: because
+  builtin: built-in
+  by means of: by
+  by reason of: because
+  by the name of: called
+  by the same token: similarly
+  by virtue of: because
+  can not: cannot
+  cancelled: canceled
+  cancelling: canceling
+  carry out: perform
+  check list: checklist
+  checkbox: check box
+  client-server: client/server
+  come to the conclusion that: conclude
+  comply with: follow
+  cross reference: cross-reference
+  datafile: dataset
+  datasource: datatype
+  data file: data set
+  data source: data type
+  deinstall: uninstall
+  down time: downtime
+  e.g.: for example
+  etc.: [completely avoid]
+  end result: result
+  except when: unless
+  forward slash: slash
+  from scratch: from the start
+  given the condition that: if
+  gives rise to: causes
+  has a requirement: requires
+  hover over: hover
+  if that is the case: if so
+  if that is not the case: if not
+  if you need to: to
+  if you want to: to
+  if you would like to: to
+  in connection with: of, related, about, for
+  in case of a: in a
+  in order to: to
+  in the event that: if
+  in the past: earlier
+  in this day and age: currently
+  in view of: because
+  in-line: inline
+  is able to: can
+  is dependent on: depends on
+  labelling: labeling
+  log on: logon
+  log on: avoid - use login (n)
+  log into: log in to
+  lower case: lowercase
+  make a choice: choose, select
+  make a decision: decide
+  make an assumption about: assume
+  make sure that: ensure
+  needs to be: must
+  not in a position to: cannot
+  occured: occurred
+  on most occasions: typically
+  on the basis of: because
+  owing to the fact that: because
+  pathname: path name
+  please: [do not use]
+  period of time: interval
+  present time: now
+  previous to: before
+  prior to: before
+  provided that: if
+  radio button: option
+  read-write: read/write
+  shows up: appears
+  some of the: some
+  stand-alone: standalone
+  stand alone: standalone
+  take action: act
+  take into account: consider
+  take into consideration: consider
+  this means that: therefore
+  timezone: time zone
+  utilize: use
+  comprises of: comprises
+  when you are done: when you complete the task
+  whether or not: whether
+  wild card: wildcard
+  wish: want
+  with reference to: about
+  with regard to: about
+  with the exception that: except that
+  world-wide web: World Wide Web
+  worldwide Web: World Wide Web
+  worldwide web: World Wide Web
+  you have to: you must
+  internet: Internet
+  account name: username
+  action bar: app bar
+  admin: administrator
+  approx\.: approximately
+  authN: authentication
+  authZ: authorization
+  autoupdate: automatically update
+  cellular data: mobile data
+  cellular network: mobile network
+  check box: checkbox
+  check: select
+  CLI: command-line tool
+  click on: click|click in
+  content type: media type
+  curated roles: predefined roles
+  data are: data is
+  fewer data: less data
+  file name: filename
+  HTTPs: HTTPS
+  sign into: sign in to
+  sign-?on: single sign-on
+  static IP address: static external IP address
+  stylesheet: style sheet
+  synch: sync
+  tablename: table name
+  url:  URL
+  vs\.: versus

@@ -1,0 +1,14 @@
+extends: substitution
+message: "Use '%s' instead of '%s'."
+ignorecase: true
+level: error
+nonword: true
+action:
+  name: replace
+swap:
+  '\b(?:eg|e\.g\.)': for example
+  '\b(?:ie|i\.e\.)': that is
+  '\b(?:etc|e\.t\.c\.)': give full list of options
+  '\b(?:fig|f\.i\.g\.)': spell it out as figure
+  '\b(?:tbl|t\.b\.l\.)': spell it out as table
+  '\b(?:pg|p\.g\.)': spell it out as page

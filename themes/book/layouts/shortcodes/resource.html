@@ -1,0 +1,17 @@
+<!-- 
+base URL 
+This shorcut allows you to include static content in the Finvivir site easily. 
+It substitutes the previous method. You can either include images or documents. 
+
+PREVIOUS METHOD
+Finvivir site base URL is the following 
+https://fndesarrollo.gitlab.io/DocOps
+Static content is in the /static folder. 
+If you want to include static content in the site, use the following path:
+[Documento](/DocOps/my-file-name)
+Example: Include imagen.png into /static folder, then call it using the proper markdown syntaxis
+[Imagen muestra](/DocOps/imagen.png)
+Notice that /static is missing as part of the path
+//-->
+
+{{ .Site.BaseURL }}{{ .Get "url" }}
