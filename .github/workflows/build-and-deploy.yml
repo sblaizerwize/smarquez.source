@@ -22,4 +22,4 @@ jobs:
         HUGO_VERSION: 0.69.2
         TARGET_REPO: sblaizerwize/intermine.github.io
         TOKEN: ${{ secrets.HUGO_TOKEN }}
-        CNAME: https://sblaizerwize.github.io/intermine.github.io/
+        CNAME: www.intermine-docs.com
