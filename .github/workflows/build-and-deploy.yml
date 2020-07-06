@@ -12,15 +12,13 @@ jobs:
 
     steps:
     - name: Checkout master
-      uses: actions/checkout@master
+      uses: actions/checkout@v1
       with:
         submodules: true
 
     - name: Hugo Deploy GitHub Pages
-      uses: chabad360/hugo-gh-pages@master
-      with:
-        hugoVersion: 0.69.2
-        repo: sblaizerwize/intermine-docs
-        githubToken: ${{ secrets.HUGO_TOKEN }}
-        cname: intermine-docs
-        args: --gc --minify --cleanDestinationDir
+      uses: benmatselby/hugo-deploy-gh-pages@master
+      env:
+        HUGO_VERSION: 0.69.2
+        TARGET_REPO: sblaizerwize/sblaizerwize.github.io
+        TOKEN: ${{ secrets.HUGO_TOKEN }}
