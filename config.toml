@@ -1,4 +1,4 @@
-baseURL = "https://intermine.github.io"
+baseURL = "https://sblaizerwize.github.io/intermine-docs/"
 title = "InterMine Documentation"
 theme = "book"
 languageCode = "en-us"
