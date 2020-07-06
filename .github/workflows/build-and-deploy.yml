@@ -20,6 +20,6 @@ jobs:
       uses: benmatselby/hugo-deploy-gh-pages@master
       env:
         HUGO_VERSION: 0.69.2
-        TARGET_REPO: sblaizerwize/intermine.github.io
+        TARGET_REPO: sblaizerwize/intermine-docs
         TOKEN: ${{ secrets.HUGO_TOKEN }}
-        CNAME: intermine.github.io
+        CNAME: intermine-docs
