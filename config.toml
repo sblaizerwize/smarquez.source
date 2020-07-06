@@ -16,13 +16,14 @@ DefaultContentLanguage = "en"
     style = "api"
     tabWidth = 4
 
-contentdir    = "content"
-layoutdir     = "layouts"
-publishdir    = "public"
-canonifyurls  = true
-metaDataFormat = "yaml"
-pygmentsUseClasses = true
-pygmentCodeFences = true
+#contentdir    = "content"
+#layoutdir     = "layouts"
+#publishdir    = "public"
+#canonifyurls  = true
+#metaDataFormat = "yaml"
+#pygmentsUseClasses = true
+#pygmentCodeFences = true
+
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
