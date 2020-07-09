@@ -9,7 +9,7 @@ headless: true
 <br />
 
 ---
-- **Searching Tools in InterMine**
+- **Searching Tools in BlueGenes**
   - Keyword Search
   - List Search
   - Region Search
@@ -19,7 +19,7 @@ headless: true
 <br />
 
 
-- **Viewing Data in InterMine**
+- **Viewing Data in BlueGenes**
   - List Analysis Pages
   - Region Search Results
   - Report Pages
