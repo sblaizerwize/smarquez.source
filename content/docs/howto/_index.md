@@ -4,7 +4,7 @@ type: docs
 weight: 1
 ---
 
-# Deploying using Octopus in Betelgeuse 
+# **Deploying using Octopus in Betelgeuse** 
 Last updated: 06/11/2020
 
 ---

@@ -4,7 +4,7 @@ type: docs
 weight: 1
 ---
 
-# Architecture Guide Betelgeuse
+# **Architecture Guide Betelgeuse**
 Last updated: 23/11/2020
 
 ---

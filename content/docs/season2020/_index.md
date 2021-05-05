@@ -92,8 +92,9 @@ This stage refines the main goals, tasks, and deliverables of this proposal taki
 **Working Stage**\
 This stage focuses on setting up the infrastructure of the documentation site and documenting the main features of BlueGenes. I will explore and use the BlueGenes platform by myself with the fresh eyes of an end-user. This will give me the freedom to start documenting the main  features that are already on the production stage. Fig. 1 shows the documentation lifecycle that I will follow.
 
-![DocumentationLifecycle](doc-lifecycle.png)
-***Fig. 1 Documentation Lifecycle for InterMine.*** 
+![DocumentationLifecycle]({{< resource url="/season2020/doc-lifecycle.png" >}})
+***Fig. 1 Documentation Lifecycle for InterMine.***\
+&nbsp;
 
 **Closing Stage**\
 This stage focuses on the creation of a product overview of BlueGenes. Having created all the content of the site, I will produce a getting started section where end-users can get up to speed with the tools that BlueGenes offers. This can be a five-minute tutorial section. As a final deliverable, I will give a demo session to the InterMine's community showing the documentation generated in the static site. If time allows, this stage includes the creation of a How-to guide for contributors. 
