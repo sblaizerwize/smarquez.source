@@ -1,5 +1,5 @@
 baseURL = "https://sblaizerwize.github.io"
-title = "InterMine Documentation"
+title = "Salomon Marquez"
 theme = "book"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -15,6 +15,7 @@ DefaultContentLanguage = "en"
     noClasses = true
     style = "api"
     tabWidth = 4
+
 
 #contentdir    = "content"
 #layoutdir     = "layouts"

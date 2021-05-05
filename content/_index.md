@@ -1,43 +1,13 @@
 ---
-title: Welcome 
+title: Salomon Marquez Site
 type: docs
 ---
 
+# **Welcome to my Portfolio**
 
+## About Me
+Salomon Marquez has been a Technical Writer at Wizeline for 18 months. During this time, he has produced useful and high-quality documentation for clients requiring the implementation of different payment processors such as Stripe, Bluesnap, and Apple Pay. He has delivered documentation using plain PDFs, Wiki pages, and static site generators. The documentation includes sequence diagrams, APIs, developer's guides and user's guides.
 
-# **Welcome to the InterMine Documentation Site**
+Salomon holds a Ph.D. in Electronics Engineering. He has over 10 years of experience in academic writing and has published in international peer-reviewed journals. His technical background enables him to dive into the project's tech stack to better understand its requirements. This also allows him to establish better communication channels with the development team.
 
-InterMine is an open source data warehouse build specifically for the integration and analysis of complex biological data. In this site you can find documentation and tutorials to get you up to speed with our brand new platform [**BlueGenes**](http://bluegenes.apps.intermine.org/).
-
----
-{{< columns >}} <!-- begin columns block -->
-## **Quick Start**
-Learn in 5 min BlueGenes
-
-
-<---> <!-- magic sparator, between columns -->
-
-## **How-To Guides**
-Know BlueGenes Features
-
-<---> <!-- magic sparator, between columns -->
-
-## **Tutorials**
-Learn a task in BlueGenes
-{{< /columns >}}
-
----
-
-## **Sample Video Tutorial**
-
-{{< youtube Qm-JRmCbBuA >}}
-
-{{< hint info >}}
-**Want to Learn More?**  
-Visit our YouTube channel and have access to all our tutorials. 
-{{< /hint >}}
-
-
-
-
-
+He is passionate about learning new technologies in a fast-paced environment. Nowadays, his interests encompass programming, cloud computing, and data engineering.

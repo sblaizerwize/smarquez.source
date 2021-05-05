@@ -3,37 +3,29 @@ headless: true
 ---
 
 ---
-- **Getting Started**
-  - Overview
-  - Training and Tutorials
+- **Portfolio**
+  - [Architecture Guide]({{< relref "/docs/architecture" >}})
+  - [How-To Guide]({{< relref "/docs/howto" >}})
+  - [Season of Docs 2020 Proposal]({{< relref "/docs/season2020" >}})
+  - [API documentation]({{< relref "/docs/apis" >}})
+
 <br />
 
 ---
-- **Searching Tools in BlueGenes**
-  - Keyword Search
-  - List Search
-  - Region Search
-  - Template Search
-  - Query Builder
+- **Contact**
+  - phd.smarquez@gmail.com
 
-<br />
-
-
-- **Viewing Data in BlueGenes**
-  - List Analysis Pages
-  - Region Search Results
-  - Report Pages
-  - Result Tables
 <br />
 
 ---
+- **Links**
+  - [**My LinkedIn**](https://www.linkedin.com/in/sblaizer/)
+  - [**My GitHub**](https://github.com/sblaizerwize?tab=repositories)
+  - [**My Scholar**](https://scholar.google.com.mx/citations?hl=en&user=A91CjSIAAAAJ&view_op=list_works&sortby=pubdate)
 
-- **Getting Help**
-  - Frequently Asked Questions
-  - GitHub/GitLab
-  - Contact
 
 <br />
+
 
 
 
