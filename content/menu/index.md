@@ -3,7 +3,7 @@ headless: true
 ---
 
 ---
-- **Portfolio**
+- **PORTFOLIO**
   - [Architecture Guide]({{< relref "/docs/architecture" >}})
   - [How-To Guide]({{< relref "/docs/howto" >}})
   - [Season of Docs 2020 Proposal]({{< relref "/docs/season2020" >}})
@@ -12,13 +12,13 @@ headless: true
 <br />
 
 ---
-- **Contact**
+- **CONTACT**
   - phd.smarquez@gmail.com
 
 <br />
 
 ---
-- **Links**
+- **LINKS**
   - [**My LinkedIn**](https://www.linkedin.com/in/sblaizer/)
   - [**My GitHub**](https://github.com/sblaizerwize?tab=repositories)
   - [**My Scholar**](https://scholar.google.com.mx/citations?hl=en&user=A91CjSIAAAAJ&view_op=list_works&sortby=pubdate)

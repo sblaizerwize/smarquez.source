@@ -4,7 +4,7 @@ type: docs
 weight: 1
 ---
 
-# BlueSnap Implementation
+# **BlueSnap Implementation**
 Last updated: 23/01/2020
 
 ---
@@ -44,7 +44,7 @@ The scenario for this purchase case is the following:
 
 The following diagram shows the payment logic for a shopper making a purchase using BlueSnap payment processor.
 
-![Sequence Diagram]({{< resource url="sequence_diagram.png" >}})
+![SequenceDiagram]({{< resource url="/apis/sequence_diagram.png" >}})
 ***Figure 1. Payment Sequence Diagram for a Shopper Making a Purchase using BlueSnap Processor***\
 &nbsp;
 
@@ -155,7 +155,7 @@ The following table lists the endpoints involved in the payment logic described 
 This request enables the frontend to receive a transaction token and load the BlueSnap payment form.
  
 #### URL
-```
+```python
   http://api-dev.sampleclient.com/v2/billing/creditcard/?is_mobile=1 \
 ```
 
@@ -254,7 +254,7 @@ The following table lists the query parameters used in the request.
 The following is an example of a command-line request.
 
 
-```
+```python
 curl -X GET \
   'http://api-dev.sampleclient.com/v2/billing/creditcard/?is_mobile=1&packages=11' \
   -H 'Authorization: Bearer [USER_TOKEN]' \
@@ -327,7 +327,7 @@ The elements listed in the response body table are in blue color in the Sample R
 
 The following is an extract of a typical response showing some of the elements returned for this request. 
 
-```
+```python
 {
   "creditcardform": [
     {
@@ -461,7 +461,7 @@ The Hosted Payment Fields token expires after 60 minutes.
 {{< /hint >}} 
 
 #### URL
-```
+```python
 https://sandbox.bluesnap.com/services/2/payment-fields-tokens
 ```
 
@@ -524,7 +524,7 @@ The following table lists the header parameters used in the request.
 The following is an example of a command-line request.
 
 
-```
+```python
 curl -I -X POST \
   https://sandbox.bluesnap.com/services/2/payment-fields-tokens \
   -H 'Content-Type: application/json' \
@@ -539,7 +539,7 @@ curl -I -X POST \
 The following is an example of a typical response that shows all the elements of the Hosted Payment Field token generation.
 
 
-```
+```python
 HTTP/1.1 201 201
 Date: Wed, 27 Nov 2019 17:24:47 GMT
 Set-Cookie: JSESSIONID=XXXXXXXX; Path=/services; Secure; HttpOnly
