@@ -5,6 +5,9 @@ type: docs
 
 # **Welcome**
 
+![SM]({{< resource url="/resume/SALOMON-MARQUEZ.jpg" >}})
+&nbsp; 
+
 ## About Me
 Salomon Marquez has been a Technical Writer at Wizeline for two years. During this time, he has produced useful and high-quality documentation for clients requiring the implementation of different payment processors such as Stripe, Bluesnap, and Apple Pay. He has delivered documentation using plain PDFs, Wiki pages, and static site generators. The documentation includes sequence diagrams, APIs, developer's guides and user's guides.
 
