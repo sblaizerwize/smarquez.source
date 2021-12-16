@@ -5,7 +5,7 @@ type: docs
 
 # **Welcome**
 
-![SM]({{< resource url="/resume/SALOMON-MARQUEZ.jpg" >}})
+![SM]({{< resource url="/resume/salomon-marquez.png" >}})
 &nbsp; 
 
 ## About Me
