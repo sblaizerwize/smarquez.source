@@ -3,29 +3,26 @@ headless: true
 ---
 
 ---
-- [**BLOG**]({{< relref "/posts" >}})
+[**PORTOFOLIO**]({{< relref "/posts" >}})
 
 ---
-- **PORTFOLIO**
-  - [Architecture Guide]({{< relref "/docs/architecture" >}})
-  - [How-To Guide]({{< relref "/docs/howto" >}})
-  - [API documentation]({{< relref "/docs/apis" >}})
-  - Season of Docs Proposals
-    - [2020 - Intermine]({{< relref "/docs/intermine2020" >}})
-    - [2021 - The Julia Language]({{< relref "/docs/julia2021" >}})
-    - [2021 - SymPy]({{< relref "/docs/sympy2021" >}})
-
-
+**ABOUT ME**
+  - [Skills]({{< relref "/#skills" >}})
+  - [Projects]({{< relref "/#projects" >}})
+  - [Open Source]({{< relref "/#open-source" >}})
+  - [Presentations]({{< relref "/#presentations" >}})
+  - [Leadership Initiatives]({{< relref "/#leadership-initiatives-at-wizeline" >}})
+  - [Certifications]({{< relref "/#certifications" >}})
+  - [Education]({{< relref "/#education" >}})
 <br />
 
 ---
-- **CONTACT**
+**CONTACT**
   - phd.smarquez@gmail.com
-
 <br />
 
 ---
-- **LINKS**
+**LINKS**
   - [My CV](/resume/CV_SALOMON_MARQUEZ.pdf)
   - [My LinkedIn](https://www.linkedin.com/in/sblaizer/)
   - [My GitHub](https://github.com/sblaizerwize?tab=repositories)

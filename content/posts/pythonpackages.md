@@ -3,13 +3,11 @@ title = "How to Create Python Packages"
 description = ""
 tags = [
     "python",
-    "testpypi",
-    "pypi",
     "packages",
 ]
 date = "2021-12-14"
 categories = [
-    "tutorials",
+    "article",
 ]
 menu = "main"
 +++

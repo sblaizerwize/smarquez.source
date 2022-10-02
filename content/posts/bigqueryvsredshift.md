@@ -2,18 +2,18 @@
 title = "What Are Two Key Differences Between BigQuery and Redshift?"
 description = ""
 tags = [
-    "BigQuery",
-    "RedShift",
-    "Data Warehouses",
+    "bigquery",
+    "redshift",
+    "data warehouses",
 ]
 date = "2021-12-15"
 categories = [
-    "tutorials",
+    "article",
 ]
 menu = "main"
 +++
 
-Big Data. We often hear about this word but we aren’t quite sure how to define it. [Literature](https://journals.sagepub.com/doi/10.1177/2053951716631130) says that having more than 1 TB of data can be considered as Big Data. After getting a mild idea of the concept, our next question would be: How can we manage such a large amount of data to find useful insights out of it? Well, one approach that can answer this lies in data warehousing.  Well, one approach that can answer that relies on data warehousing.
+Big Data. We often hear about this word but we aren’t quite sure how to define it. [Literature](https://journals.sagepub.com/doi/10.1177/2053951716631130) says that having more than 1 TB of data can be considered as Big Data. After getting a mild idea of the concept, our next question would be: How can we manage such a large amount of data to find useful insights out of it? Well, one approach that can answer this lies in data warehousing.
 
 A data warehouse is a data management system for storing and analyzing historical data. It enables business intelligence (BI) to perform queries and analysis on data. From [renewable energy](https://aws.amazon.com/blogs/industries/aws-is-how-ge-renewable-energy-increases-wind-energy-production/?did=cr_card&trk=cr_card) (General Electric) and [clothing industry](https://www.youtube.com/watch?v=GdyjPwsn9wc&list=PLBgogxgQVM9tH8WRvL8lVBuqZaRujC1vT&index=8&t=2s) (American Eagle) to long-distance [carpooling](https://cloud.google.com/customers/blablacar/) platforms (BlaBlaCar), enterprises rely on data warehouses to help them understand their customers’ experience by analyzing their logs over time. 
 
