@@ -14,8 +14,6 @@ Salomon immersed himself into the world of technical writing in 2017 when he par
 
 His current interests encompass programming, cloud computing, and data engineering
 
-[Projects](#Projects)
-
 ---
 # **Skills**
 {{< columns >}} <!-- begin columns block -->
