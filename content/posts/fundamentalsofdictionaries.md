@@ -8,7 +8,7 @@ tags = [
 ]
 date = "2021-08-23"
 categories = [
-    "tutorials",
+    "article",
 ]
 menu = "main"
 +++
