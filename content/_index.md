@@ -93,7 +93,7 @@ I contributed to the Open Source Initiative (OSI) at Wizeline by conducting the 
 
 - I led a study group of 16 technical writers for three months to pursue the AWS Cloud Practitioner Certification. Some activities included: define and organize study materials, coordinate study sessions, create questions that fostered discussions, and give demos.
 
-- I mentored three technical writers joining the TW team for six months. Some activities included: conduct peer reviews, support their career growth, identify opportunity areas and how to cope with them, and help them unblock any stoppers. (Adriana Mercado, Manuelito, Judith) 
+- I mentored three technical writers joining the TW team for six months. Some activities included: conduct peer reviews, support their career growth, identify opportunity areas and how to cope with them, and help them unblock any stoppers.
 
 - I led the TW onboarding squad for one year. Primary responsibilities included: send a welcome email to new technical writers along with a handful of useful resources to get onboarded, revamp the TW style guide assessment, and provide guidance to TW team leads on how to support their mentees.
 
