@@ -12,7 +12,7 @@ Salomon holds a Ph.D. in Electronics Engineering. He has over six years of acade
 
 Salomon immersed himself into the world of technical writing in 2017 when he participated in the first edition of Wizeline's Technical Writing Academy. It is until September 2019 that he joined the TW team at Wizeline. Since then, he has collaborated on projects oriented toward different services such as dating, financial technologies, and video streaming platforms. Salomon likes projects with significant technical challenges that allow him to learn new technologies and establish a collaborative work strategy between stakeholders, developers, and other TWs and thus create a clear awareness of the importance of documentation.
 
-His current interests encompass programming, cloud computing, and data engineering
+His current interests encompass programming, cloud computing, and data engineering. Check [**Salomon's portfolio**](https://sblaizerwize.github.io/posts/) to learn more about his work.
 
 ---
 # **Skills**
