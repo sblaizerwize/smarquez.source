@@ -8,11 +8,11 @@ type: docs
 ![SM]({{< resource url="/resume/salomon-marquez.png" >}})
 &nbsp; 
 
-Salomon holds a Ph.D. in Electronics Engineering. He has over six years of academic writing experience and has published in peer-reviewed international journals. His technical background enables him to dive deep into the tech stack of projects to make complex concepts more comprehensible for different audiences.
+Salomon is a highly accomplished Senior Technical Writer with a Ph.D. in Electronics Engineering. He has more than 10 years of experience in academic writing and over 4 years in technical writing for the software industry. His technical background allows him to explain complex concepts in a more understandable way for different audiences.
 
-Salomon immersed himself into the world of technical writing in 2017 when he participated in the first edition of Wizeline's Technical Writing Academy. It is until September 2019 that he joined the TW team at Wizeline. Since then, he has collaborated on projects oriented toward different services such as dating, financial technologies, and video streaming platforms. Salomon likes projects with significant technical challenges that allow him to learn new technologies and establish a collaborative work strategy between stakeholders, developers, and other TWs and thus create a clear awareness of the importance of documentation.
+As a Senior Technical Writer, Salomon has played multiple roles as a consultant, technical lead, mentor, hiring interviewer, and open-source contributor. He has collaborated on a wide range of projects related to dating, financial technologies, and video streaming platforms, producing various types of documentation such as API documentation, architecture guides, developer guides, onboarding guides, user manuals, concept guides, glossaries, and READMEs. Salomon thrives on working on challenging projects that allow him to learn new technologies and establish collaborative work strategies among stakeholders, developers, and other technical writers.
 
-His current interests encompass programming, cloud computing, and data engineering. Check [**Salomon's portfolio**](https://sblaizerwize.github.io/posts/) to learn more about his work.
+Salomon is passionate about cloud computing, AI-assisted tools, and data engineering, and always stays up-to-date with the latest trends and advancements in these fields. You can learn more about Salomon and his portfolio of work at https://sblaizerwize.github.io/posts/
 
 ---
 # **Skills**
@@ -99,6 +99,7 @@ I contributed to the Open Source Initiative (OSI) at Wizeline by conducting the 
 
 ---
 # **Certifications**
+- [*GCP Associate Cloud Engineer*](https://www.credential.net/76455e35-4fe7-4775-a90c-1ed52196444b?key=c6b3e3a602c2e5679c3abc815281b9dfc743dd5720ea5d553c7cdbcf8da14b07) (2022)
 - [*AWS Cloud Practitioner Certification*](https://www.credly.com/badges/3823ab3e-a827-4f78-bd0e-64ae2c30f066/public_url) (2021)
 - [*Data Engineer Nanodegree from Udacity*](https://www.linkedin.com/in/sblaizer/overlay/1635462430051/single-media-viewer?type=DOCUMENT&profileId=ACoAABIEUlUB4vJ-8POlL6AUMiPVBrNbvKZqWn0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BfBUKnIHfTrWWikuEDOkbVA%3D%3D) (2021)
 

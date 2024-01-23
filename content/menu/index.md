@@ -3,7 +3,8 @@ headless: true
 ---
 
 ---
-[**PORTFOLIO**]({{< relref "/posts" >}})
+**DOCUMENTATION SAMPLES**
+  - [Portfolio]({{< relref "/posts" >}})
 
 ---
 **ABOUT ME**
