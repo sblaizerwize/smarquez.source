@@ -20,8 +20,8 @@ ChatGPT is a state-of-the-art language model developed by [OpenAI](https://opena
 This guide describes how to utilize ChatGPT through the OpenAI API service on macOS operating systems. Additionally, it provides instructions for interacting with ChatGPT using Python.
 
 ---
-## Use ChatGPT Locally
-To set up ChatGPT locally using the terminal, follow these instructions:
+## Connect to ChatGPT via API
+To set up ChatGPT API follow these instructions:
 
 1. Set up an API Key
 Sign up to [OpenAI](https://beta.openai.com/signup/) and follow the indications to [create a new secret key](https://beta.openai.com/signup/). All your API requests must include this API Key in the Authorization HTTP header of the request.
