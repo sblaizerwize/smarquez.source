@@ -1,5 +1,5 @@
 +++
-title = "Your Simple Guide to Installing and Using ChatGPT Locally with Python"
+title = "Your Simple Guide to use ChatGPT via the OpenAI API"
 description = ""
 tags = [
     "artificial intelligence",
@@ -17,7 +17,7 @@ menu = "main"
 
 ChatGPT is a state-of-the-art language model developed by [OpenAI](https://openai.com/). It serves many purposes in natural language processing, including language translation, chatbots, and story writing, among others.
 
-This guide describes how to set up ChatGPT locally and utilize it through the OpenAI API service on macOS operating systems. Additionally, it provides instructions for locally integrating ChatGPT with Python.
+This guide describes how to utilize ChatGPT through the OpenAI API service on macOS operating systems. Additionally, it provides instructions for interacting with ChatGPT using Python.
 
 ---
 ## Use ChatGPT Locally
@@ -63,7 +63,7 @@ Keep in a safe location your new secret key. For security reasons, you won’t b
     ```
 
 ---
-## Use ChatGPT with Python Locally
+## Use ChatGPT with Python 
 This section describes how to set up ChatGPT and use it in your Python scripts.
 
 ### Prerequisites
